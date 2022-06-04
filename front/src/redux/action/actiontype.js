@@ -1,0 +1,15 @@
+export const GET_EQUIPES = "GET_EQUIPES";
+export const GET_EQUIPE = "GET_EQUIPE";
+
+
+export const GET_JOUEURS="GET_JOUEURS"
+export const GET_JOUEUR_BYID="GET_JOUEUR_BYID"
+
+export const GET_TERRAINS="GET_TERRAINS"
+export const GET_TERRAIN="GET_TERRAIN"
+
+export const GET_ARBITRES = "GET_ARBITRES";
+export const GET_ARBITRE_BYID = "GET_ARBITRE_BYID";
+
+export const GET_MATCHES="GET_MATCHES"
+export const GET_MATCH_BYID="GET_MATCH_BYID"
